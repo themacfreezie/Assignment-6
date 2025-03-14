@@ -1,2 +1,4 @@
 # Assignment-6
-A repo for Assignment 6
+A repo for Assignment 6 - reviewing an R package
+
+Isoband is an R package designed to generate contour lines (isolines) and polygons (isobands) from elevation data. It is available on CRAN as well as GitHub. The package contains two formal vignettes, one for generating isolines and isobands, and one for labeling them. The package's applications are straightforward but the output is useful and can be visually appealing when implemented in tandem with style options available in packages like ggplot2 and sf. Tyler Morgan-Wall's 'Pathtracing Neon Landscapes' is a good example of the package's utility. The package is easy to learn and implement, as it contains only a handful of commands. I would recommed it to anyone who needed to generate contour lines as a componenent of data visualization. While the package does not do much on it's own, interoperability with other spatial visualization packages in the R library means that it does not suffer from lack of functionality. 8.5/10   
